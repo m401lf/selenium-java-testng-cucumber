@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="base.Listeners"/>
+    </listeners>
+
+    <test name="loginTest">
+        <classes>
+            <class name="testCases.Login.LoginTestWithValidCredentials">
+            </class>
+        </classes>
+    </test>
+
+    <test name="loginNegativeTest">
+        <classes>
+            <class name="testCases.Login.LoginTestWithInvalidCredentials">
+            </class>
+        </classes>
+    </test>
+
+    <test name="RegistrationTestViaLoginLink">
+        <classes>
+            <class name="testCases.Registration.RegistrationTestViaLoginLink">
+            </class>
+        </classes>
+    </test>
+
+    <test name="RegistrationTestViaRegisterLink">
+        <classes>
+            <class name="testCases.Registration.RegistrationTestViaRegisterLink">
+            </class>
+        </classes>
+    </test>
+
+    <test name="RegistrationTest_Using_Faker_Input">
+        <classes>
+            <class name="testCases.Registration.RegistrationTest_Using_Faker_Input">
+            </class>
+        </classes>
+    </test>
+
+    <test name="RegistrationTest_Using_Json_Input">
+        <classes>
+            <class name="testCases.Registration.registrationTestUsingJsonInput">
+            </class>
+        </classes>
+    </test>
+
+</suite>

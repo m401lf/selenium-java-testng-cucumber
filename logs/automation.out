@@ -1,0 +1,2086 @@
+2024-02-17 07:02:931 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 07:02:957 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 07:02:957 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 07:02:673 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 07:02:706 INFO  BasePage:203 - Click :: Continue
+2024-02-17 07:02:544 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 07:02:581 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 07:02:592 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 07:02:752 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 07:02:893 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 07:02:39 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 07:02:319 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 07:02:319 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 07:02:449 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 07:02:581 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 07:02:427 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 07:02:440 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 07:02:461 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 07:02:525 INFO  BasePage:445 - clicked :: Continue
+2024-02-17 07:02:885 INFO  BasePage:447 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-17 07:02:907 INFO  BasePage:448 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:912 INFO  BasePage:449 - current page heading :: My Account
+2024-02-17 07:02:250 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-17 07:02:275 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-17 07:02:285 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-17 07:02:303 INFO  BasePage:425 - clicked :: 
+2024-02-17 07:02:791 INFO  BasePage:427 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-17 07:02:866 INFO  BasePage:428 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:883 INFO  BasePage:429 - current page title:: My Account
+2024-02-17 07:02:642 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-17 07:02:654 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-17 07:02:658 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-17 07:02:685 INFO  BasePage:375 - clicked :: Continue
+2024-02-17 07:02:87 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-17 07:02:108 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-17 07:02:117 INFO  BasePage:379 - current page title:: Your Store
+2024-02-17 07:02:27 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 07:02:40 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 07:02:59 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 07:02:821 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 07:02:863 INFO  BasePage:203 - Click :: Continue
+2024-02-17 07:02:648 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 07:02:665 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 07:02:674 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 07:02:761 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 07:02:890 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 07:02:42 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 07:02:343 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 07:02:343 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 07:02:462 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 07:02:589 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 07:02:403 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 07:02:425 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 07:02:440 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 07:02:501 INFO  BasePage:445 - clicked :: Continue
+2024-02-17 07:02:876 INFO  BasePage:447 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-17 07:02:893 INFO  BasePage:448 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:898 INFO  BasePage:449 - current page heading :: My Account
+2024-02-17 07:02:292 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-17 07:02:306 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-17 07:02:318 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-17 07:02:337 INFO  BasePage:425 - clicked :: 
+2024-02-17 07:02:919 INFO  BasePage:427 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-17 07:02:932 INFO  BasePage:428 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:937 INFO  BasePage:429 - current page title:: My Account
+2024-02-17 07:02:647 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-17 07:02:662 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-17 07:02:666 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-17 07:02:699 INFO  BasePage:375 - clicked :: Continue
+2024-02-17 07:02:90 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-17 07:02:109 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-17 07:02:118 INFO  BasePage:379 - current page title:: Your Store
+2024-02-17 07:02:661 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 07:02:679 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 07:02:696 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 07:02:442 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 07:02:478 INFO  BasePage:203 - Click :: Continue
+2024-02-17 07:02:234 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 07:02:252 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 07:02:259 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 07:02:342 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 07:02:483 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 07:02:623 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 07:02:938 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 07:02:938 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 07:02:67 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 07:02:190 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 07:02:998 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 07:02:19 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 07:02:33 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 07:02:90 INFO  BasePage:445 - clicked :: Continue
+2024-02-17 07:02:449 INFO  BasePage:447 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-17 07:02:462 INFO  BasePage:448 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:468 INFO  BasePage:449 - current page heading :: My Account
+2024-02-17 07:02:849 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-17 07:02:868 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-17 07:02:875 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-17 07:02:906 INFO  BasePage:425 - clicked :: 
+2024-02-17 07:02:476 INFO  BasePage:427 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-17 07:02:492 INFO  BasePage:428 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:492 INFO  BasePage:429 - current page title:: My Account
+2024-02-17 07:02:137 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-17 07:02:163 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-17 07:02:174 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-17 07:02:209 INFO  BasePage:375 - clicked :: Continue
+2024-02-17 07:02:612 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-17 07:02:631 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-17 07:02:641 INFO  BasePage:379 - current page title:: Your Store
+2024-02-17 07:02:669 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 07:02:687 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 07:02:704 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 07:02:516 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 07:02:517 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 07:02:668 INFO  RegisterPage:306 - inputted >> Firstname
+2024-02-17 07:02:802 INFO  RegisterPage:312 - inputted >> Lastname
+2024-02-17 07:02:99 INFO  RegisterPage:318 - inputted >> 07405000000
+2024-02-17 07:02:99 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 07:02:236 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 07:02:349 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 07:02:482 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 07:02:376 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 07:02:399 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 07:02:410 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 07:02:450 INFO  BasePage:445 - clicked :: Continue
+2024-02-17 07:02:815 INFO  BasePage:447 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-17 07:02:845 INFO  BasePage:448 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:856 INFO  BasePage:449 - current page heading :: My Account
+2024-02-17 07:02:258 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-17 07:02:276 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-17 07:02:288 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-17 07:02:299 INFO  BasePage:425 - clicked :: 
+2024-02-17 07:02:21 INFO  BasePage:427 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-17 07:02:37 INFO  BasePage:428 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 07:02:43 INFO  BasePage:429 - current page title:: My Account
+2024-02-17 07:02:793 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-17 07:02:816 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-17 07:02:821 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-17 07:02:856 INFO  BasePage:375 - clicked :: Continue
+2024-02-17 07:02:272 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-17 07:02:291 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-17 07:02:304 INFO  BasePage:379 - current page title:: Your Store
+2024-02-17 08:02:863 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:880 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:900 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:762 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:780 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:793 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:591 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:640 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:671 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:584 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:598 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:609 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:544 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:574 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:580 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:677 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:702 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:719 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:929 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:948 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:965 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 08:02:996 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 08:02:12 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 08:02:24 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:314 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:346 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:346 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:230 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:257 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:257 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:24 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:62 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:827 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:841 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:841 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:921 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:75 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:218 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:519 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:519 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:673 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 09:02:843 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 09:02:606 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:623 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:638 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:567 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:589 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:598 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:345 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:389 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:296 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:308 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:320 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:422 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:562 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:689 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:03 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:06 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:153 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 09:02:287 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 09:02:67 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:86 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:105 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:13 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:42 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:48 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:808 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:841 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:609 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:625 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:625 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:722 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:862 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:15 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:318 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:319 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:451 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 09:02:581 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 09:02:427 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:444 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:450 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:390 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:405 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:418 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:112 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:165 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:932 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:938 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:949 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:32 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:191 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:361 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:702 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:702 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:852 INFO  RegisterPage:342 - inputted password >> Password
+2024-02-17 09:02:995 INFO  RegisterPage:349 - inputted confirm password>> Password
+2024-02-17 09:02:809 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:825 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:834 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:402 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:425 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:439 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:201 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:235 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:39 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:48 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:54 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:151 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:302 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:443 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:793 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:793 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:912 INFO  RegisterPage:351 - inputted password >> Password
+2024-02-17 09:02:38 INFO  RegisterPage:358 - inputted confirm password>> Password
+2024-02-17 09:02:924 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:943 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:952 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:969 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:987 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:997 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:718 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:759 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:479 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:491 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:503 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:568 INFO  RegisterPage:331 - Entering personal details....
+2024-02-17 09:02:697 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:871 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:45 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:58 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:73 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:762 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:802 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:544 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:559 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:566 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:654 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:808 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:952 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:310 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:310 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:466 INFO  RegisterPage:351 - inputted password >> Password
+2024-02-17 09:02:608 INFO  RegisterPage:358 - inputted confirm password>> Password
+2024-02-17 09:02:386 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:404 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:410 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:490 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:511 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:522 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:336 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:380 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:175 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:200 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:214 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:317 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:445 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:585 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:890 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:895 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:24 INFO  RegisterPage:356 - inputted password >> Password
+2024-02-17 09:02:155 INFO  RegisterPage:363 - inputted confirm password>> Password
+2024-02-17 09:02:22 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:46 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:57 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:158 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:177 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:181 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:874 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:926 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:665 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:677 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:694 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:807 INFO  RegisterPage:331 - Entering personal details....
+2024-02-17 09:02:10 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:138 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:450 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:472 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:486 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:297 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:335 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:45 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:60 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:70 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:170 INFO  RegisterPage:322 - Entering personal details....
+2024-02-17 09:02:323 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:485 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:839 INFO  RegisterPage:318 - inputted >> 07405800000
+2024-02-17 09:02:839 INFO  RegisterPage:327 - Finalised entering personal details....
+2024-02-17 09:02:991 INFO  RegisterPage:356 - inputted password >> Password
+2024-02-17 09:02:142 INFO  RegisterPage:363 - inputted confirm password>> Password
+2024-02-17 09:02:941 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 09:02:948 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 09:02:948 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 09:02:173 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:194 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:210 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:990 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:36 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:815 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:832 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:843 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:932 INFO  RegisterPage:331 - Entering personal details....
+2024-02-17 09:02:88 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:220 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 09:02:194 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 09:02:235 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 09:02:247 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 09:02:46 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 09:02:93 INFO  BasePage:203 - Click :: Continue
+2024-02-17 09:02:850 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 09:02:860 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 09:02:864 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 09:02:975 INFO  RegisterPage:331 - Entering personal details....
+2024-02-17 09:02:128 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 09:02:258 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 10:02:521 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:551 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:558 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:347 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:385 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:165 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:179 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:185 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:278 INFO  RegisterPage:331 - Entering personal details....
+2024-02-17 10:02:424 INFO  RegisterPage:306 - inputted >> David
+2024-02-17 10:02:579 INFO  RegisterPage:312 - inputted >> Howard
+2024-02-17 10:02:678 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:707 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:715 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:455 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:524 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:285 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:298 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:307 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:531 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:543 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:561 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:258 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:300 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:47 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:59 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:59 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:700 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:725 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:732 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:524 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:555 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:354 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:364 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:372 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:520 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:555 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:564 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:330 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:381 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:322 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:329 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:329 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:72 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:101 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:109 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:815 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:852 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:652 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:665 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:680 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:743 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:776 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:787 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:476 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:523 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:288 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:296 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:310 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:392 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 10:02:533 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 10:02:688 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 10:02:10 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:38 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:44 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:820 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:855 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:621 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:634 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:634 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:79 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:108 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:115 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:869 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:920 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:679 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:696 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:702 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:112 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:125 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:143 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:891 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:942 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:730 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:742 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:757 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:250 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:297 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:314 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:146 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:193 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:947 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:972 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:985 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:643 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:659 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:673 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:358 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:386 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:158 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:166 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:177 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:814 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:414 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:424 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:188 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:225 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:89 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:108 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:123 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:221 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 10:02:371 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 10:02:503 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 10:02:689 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 10:02:823 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 10:02:823 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 10:02:949 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:975 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:979 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:872 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:915 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:683 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:698 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:706 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:809 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 10:02:961 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 10:02:106 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 10:02:277 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 10:02:402 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 10:02:403 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 10:02:536 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 10:02:644 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 10:02:787 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 10:02:363 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 10:02:379 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:390 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 10:02:412 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 10:02:444 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 10:02:451 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 10:02:179 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 10:02:237 INFO  BasePage:203 - Click :: Continue
+2024-02-17 10:02:194 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 10:02:208 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:213 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 10:02:326 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 10:02:500 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 10:02:655 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 10:02:894 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 10:02:33 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 10:02:33 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 10:02:163 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 10:02:309 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 10:02:447 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 10:02:34 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 10:02:40 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 10:02:56 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 11:02:440 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:455 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:469 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:227 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 11:02:283 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:76 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:89 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:96 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:184 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:338 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:492 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:802 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:803 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:927 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:86 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:236 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:255 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:260 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:350 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 11:02:337 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:366 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:370 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:201 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 11:02:228 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:53 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:64 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:70 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:144 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 11:02:278 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:417 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:578 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 11:02:703 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:704 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 11:02:836 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:954 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:109 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:729 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:748 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:763 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 11:02:849 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:855 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:876 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:293 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:34 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:54 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:860 INFO  BasePage:460 - Successfully clicked on from top menu list links
+2024-02-17 11:02:904 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:903 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:903 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:917 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:13 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:155 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:297 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:587 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:588 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:697 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:831 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:793 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:808 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:820 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:906 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 11:02:15 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:34 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:52 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:937 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:990 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:760 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:786 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:786 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:912 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:90 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:345 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:782 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:784 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:954 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:122 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:140 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:172 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:175 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:274 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 11:02:859 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:234 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:260 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:64 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:97 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:01 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:17 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:18 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:95 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 11:02:262 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:449 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:640 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 11:02:784 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:784 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 11:02:939 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:88 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:280 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:854 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:871 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:879 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 11:02:940 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:960 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:984 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:235 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:261 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:274 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:16 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:68 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:829 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:846 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:855 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:935 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:96 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:247 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:569 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:569 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:706 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:872 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:619 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:634 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:638 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:748 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 11:02:427 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:440 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:458 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:188 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:230 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:26 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:35 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:46 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:134 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:279 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:420 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:719 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:719 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:853 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:987 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:814 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:822 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:838 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:919 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 11:02:233 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:251 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:253 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:997 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:32 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:742 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:769 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:776 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:863 INFO  RegisterPage:335 - Entering personal details....
+2024-02-17 11:02:36 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:190 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:369 INFO  RegisterPage:349 - entered existing email :: admin001@admin.com
+2024-02-17 11:02:512 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:512 INFO  RegisterPage:340 - Finalised entering personal details....
+2024-02-17 11:02:662 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:795 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:962 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:575 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:587 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:600 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 11:02:542 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:134 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:145 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:708 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 11:02:722 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 11:02:738 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 11:02:452 INFO  BasePage:467 - Successfully clicked on from top menu list links
+2024-02-17 11:02:486 INFO  BasePage:203 - Click :: Continue
+2024-02-17 11:02:227 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 11:02:240 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 11:02:248 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 11:02:340 INFO  RegisterPage:326 - Entering personal details....
+2024-02-17 11:02:475 INFO  RegisterPage:310 - inputted >> David
+2024-02-17 11:02:632 INFO  RegisterPage:316 - inputted >> Howard
+2024-02-17 11:02:958 INFO  RegisterPage:322 - inputted >> 07405800000
+2024-02-17 11:02:958 INFO  RegisterPage:331 - Finalised entering personal details....
+2024-02-17 11:02:99 INFO  RegisterPage:360 - inputted password >> Password
+2024-02-17 11:02:247 INFO  RegisterPage:367 - inputted confirm password>> Password
+2024-02-17 11:02:998 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 11:02:27 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 11:02:35 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 11:02:136 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 12:02:387 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:412 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:419 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:617 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:627 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:627 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:667 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:686 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:697 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:228 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:263 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:290 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:292 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:393 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:838 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:861 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:869 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:234 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:250 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:250 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:315 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:406 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:758 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:768 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:786 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:617 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:634 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:650 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:796 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:880 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:282 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:304 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:321 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:438 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:544 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:559 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:710 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:827 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:223 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:257 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:275 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:150 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:180 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:188 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:96 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:206 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:605 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:623 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:632 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:511 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:527 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:543 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:493 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:574 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:999 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:19 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:28 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 12:02:905 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 12:02:918 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 12:02:922 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 12:02:873 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 12:02:954 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 12:02:300 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 12:02:305 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 12:02:322 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:675 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:267 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:279 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:162 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:260 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:633 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:649 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:664 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:916 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:943 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:943 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:909 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:07 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:413 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:432 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:458 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:247 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:280 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:287 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:244 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:349 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:755 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:784 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:799 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:898 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:926 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:933 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:857 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:961 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:356 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:376 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:397 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:882 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:908 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:910 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:815 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:892 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:286 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:298 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:311 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:403 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:424 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:439 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:343 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:430 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:791 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:829 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:839 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:708 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:722 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:736 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:671 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:755 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:180 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:192 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:206 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:882 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:912 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:920 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:828 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:934 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:292 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:317 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:317 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:430 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:459 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:466 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:180 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 13:02:239 INFO  BasePage:203 - Click :: Continue
+2024-02-17 13:02:12 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 13:02:27 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:43 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 13:02:121 INFO  RegisterPage:329 - Entering personal details....
+2024-02-17 13:02:258 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 13:02:443 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 13:02:793 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 13:02:793 INFO  RegisterPage:334 - Finalised entering personal details....
+2024-02-17 13:02:912 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 13:02:47 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 13:02:899 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 13:02:905 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 13:02:913 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 13:02:990 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 13:02:998 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:18 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:27 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:820 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 13:02:854 INFO  BasePage:203 - Click :: Continue
+2024-02-17 13:02:765 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 13:02:780 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:780 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 13:02:864 INFO  RegisterPage:338 - Entering personal details....
+2024-02-17 13:02:999 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 13:02:144 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 13:02:328 INFO  RegisterPage:352 - entered existing email :: admin001@admin.com
+2024-02-17 13:02:475 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 13:02:475 INFO  RegisterPage:343 - Finalised entering personal details....
+2024-02-17 13:02:594 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 13:02:701 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 13:02:849 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 13:02:419 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 13:02:431 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:435 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 13:02:604 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:627 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:633 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:537 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 13:02:608 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 13:02:13 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 13:02:30 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:44 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 13:02:406 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 13:02:421 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 13:02:436 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 13:02:109 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 13:02:137 INFO  BasePage:203 - Click :: Continue
+2024-02-17 13:02:07 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 13:02:18 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 13:02:23 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 13:02:133 INFO  RegisterPage:329 - Entering personal details....
+2024-02-17 13:02:287 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 13:02:445 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 13:02:824 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 13:02:824 INFO  RegisterPage:334 - Finalised entering personal details....
+2024-02-17 13:02:996 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 13:02:156 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 13:02:935 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 13:02:954 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 13:02:967 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 13:02:66 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:940 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:964 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:983 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:726 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:762 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:548 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:554 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:567 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:662 INFO  RegisterPage:329 - Entering personal details....
+2024-02-17 14:02:841 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 14:02:971 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 14:02:325 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 14:02:325 INFO  RegisterPage:334 - Finalised entering personal details....
+2024-02-17 14:02:449 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 14:02:598 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 14:02:502 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 14:02:526 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 14:02:539 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 14:02:628 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:808 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:818 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:839 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:522 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:554 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:282 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:293 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:304 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:392 INFO  RegisterPage:338 - Entering personal details....
+2024-02-17 14:02:552 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 14:02:698 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 14:02:890 INFO  RegisterPage:352 - entered existing email :: admin001@admin.com
+2024-02-17 14:02:49 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 14:02:68 INFO  RegisterPage:343 - Finalised entering personal details....
+2024-02-17 14:02:215 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 14:02:398 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 14:02:567 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 14:02:587 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:600 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 14:02:779 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:796 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:809 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:990 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 14:02:74 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 14:02:494 INFO  RegisterPage:226 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 14:02:508 INFO  RegisterPage:227 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:516 INFO  RegisterPage:228 - current page heading :: Register Account
+2024-02-17 14:02:719 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:697 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:719 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:441 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:478 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:212 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:227 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:236 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:367 INFO  RegisterPage:329 - Entering personal details....
+2024-02-17 14:02:546 INFO  RegisterPage:313 - inputted >> David
+2024-02-17 14:02:714 INFO  RegisterPage:319 - inputted >> Howard
+2024-02-17 14:02:207 INFO  RegisterPage:325 - inputted >> 07405800000
+2024-02-17 14:02:207 INFO  RegisterPage:334 - Finalised entering personal details....
+2024-02-17 14:02:349 INFO  RegisterPage:363 - inputted password >> Password
+2024-02-17 14:02:496 INFO  RegisterPage:370 - inputted confirm password>> Password
+2024-02-17 14:02:312 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 14:02:321 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 14:02:338 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 14:02:419 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:331 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:362 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:363 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:90 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:127 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:906 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:928 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:936 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:699 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:716 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:731 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:478 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:533 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:308 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:314 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:327 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:779 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:793 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:808 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:538 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:573 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:363 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:373 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:374 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:507 INFO  RegisterPage:544 - Successfully clicked on Continue Button
+2024-02-17 14:02:649 ERROR VerificationHelper:49 - Element is not enabled..
+2024-02-17 14:02:649 ERROR VerificationHelper:50 - Element is not Displayed..
+2024-02-17 14:02:787 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:800 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:816 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:572 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:614 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:370 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:387 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:398 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:880 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-17 14:02:990 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:951 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:978 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:983 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:37 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:48 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:68 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:735 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:774 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:782 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:548 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:599 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:347 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:366 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:374 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:847 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-17 14:02:949 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:980 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:998 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:13 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:409 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-17 14:02:546 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:825 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:841 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:860 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:84 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:641 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:654 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:06 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-17 14:02:118 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:574 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:606 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:613 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:435 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:479 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:630 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:637 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:637 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:735 INFO  RegisterPage:328 - Entering personal details....
+2024-02-17 14:02:882 INFO  RegisterPage:312 - inputted >> David
+2024-02-17 14:02:36 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-17 14:02:340 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-17 14:02:340 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-17 14:02:482 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-17 14:02:609 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-17 14:02:595 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 14:02:610 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 14:02:615 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 14:02:700 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 14:02:229 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:250 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:255 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:24 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-17 14:02:48 INFO  BasePage:203 - Click :: Continue
+2024-02-17 14:02:16 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-17 14:02:16 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:31 INFO  BasePage:207 - current page url :: Register Account
+2024-02-17 14:02:117 INFO  RegisterPage:337 - Entering personal details....
+2024-02-17 14:02:263 INFO  RegisterPage:312 - inputted >> David
+2024-02-17 14:02:406 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-17 14:02:556 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-17 14:02:694 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-17 14:02:694 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-17 14:02:820 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-17 14:02:927 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-17 14:02:539 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 14:02:556 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:565 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-17 14:02:266 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:285 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:292 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:390 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-17 14:02:472 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-17 14:02:931 INFO  RegisterPage:225 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-17 14:02:949 INFO  RegisterPage:226 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-17 14:02:960 INFO  RegisterPage:227 - current page heading :: Register Account
+2024-02-17 14:02:265 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 14:02:284 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 14:02:294 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 14:02:538 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-17 14:02:632 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-17 16:02:423 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 16:02:140 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 16:02:161 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 16:02:907 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 16:02:908 INFO  RegisterPage:328 - Entering personal details....
+2024-02-17 16:02:355 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 16:02:367 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 16:02:385 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 16:02:38 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 16:02:38 INFO  RegisterPage:328 - Entering personal details....
+2024-02-17 16:02:332 INFO  RegisterPage:312 - inputted >> Firstname
+2024-02-17 16:02:560 INFO  RegisterPage:318 - inputted >> Lastname
+2024-02-17 16:02:36 INFO  RegisterPage:324 - inputted >> 07405000000
+2024-02-17 16:02:36 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-17 16:02:226 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-17 16:02:455 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-17 16:02:653 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-17 16:02:03 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-17 16:02:18 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-17 16:02:53 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-17 16:02:132 INFO  BasePage:446 - clicked :: Continue
+2024-02-17 16:02:612 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-17 16:02:652 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 16:02:666 INFO  BasePage:450 - current page heading :: My Account
+2024-02-17 16:02:180 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-17 16:02:194 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-17 16:02:203 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-17 16:02:252 INFO  BasePage:426 - clicked :: 
+2024-02-17 16:02:912 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-17 16:02:950 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-17 16:02:971 INFO  BasePage:430 - current page title:: My Account
+2024-02-17 16:02:831 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-17 16:02:891 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-17 16:02:905 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-17 16:02:993 INFO  BasePage:375 - clicked :: Continue
+2024-02-17 16:02:576 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-17 16:02:624 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-17 16:02:647 INFO  BasePage:379 - current page title:: Your Store
+2024-02-17 17:02:758 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 17:02:796 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 17:02:809 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 17:02:831 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 17:02:832 INFO  RegisterPage:328 - Entering personal details....
+2024-02-17 17:02:596 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 17:02:625 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 17:02:640 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 17:02:709 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 17:02:709 INFO  RegisterPage:328 - Entering personal details....
+2024-02-17 17:02:536 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-17 17:02:570 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-17 17:02:582 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-17 17:02:593 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-17 17:02:594 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:619 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:648 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:654 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:363 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:403 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:187 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:200 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:208 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:309 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:457 INFO  RegisterPage:312 - inputted >> David
+2024-02-18 11:02:625 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:922 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:922 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-18 11:02:40 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:191 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:995 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:18 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-18 11:02:25 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-18 11:02:113 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:771 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:560 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:575 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:289 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:324 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:34 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:48 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:58 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:150 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 11:02:318 INFO  RegisterPage:312 - inputted >> David
+2024-02-18 11:02:489 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:688 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 11:02:841 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:842 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 11:02:992 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:163 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:744 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:761 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:774 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 11:02:984 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:998 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:10 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:921 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-18 11:02:17 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-18 11:02:396 INFO  RegisterPage:225 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-18 11:02:417 INFO  RegisterPage:226 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:432 INFO  RegisterPage:227 - current page heading :: Register Account
+2024-02-18 11:02:595 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:612 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:630 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:19 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-18 11:02:143 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:512 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:539 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:549 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:302 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:340 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:79 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:88 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:98 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:189 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:331 INFO  RegisterPage:312 - inputted >> David
+2024-02-18 11:02:495 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:817 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:817 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-18 11:02:938 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:81 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:881 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:902 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-18 11:02:914 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-18 11:02:04 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:228 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:243 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:249 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:973 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:998 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:761 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:770 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:779 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:850 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 11:02:981 INFO  RegisterPage:312 - inputted >> David
+2024-02-18 11:02:115 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:272 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 11:02:417 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:420 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 11:02:545 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:673 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:262 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:276 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:286 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 11:02:417 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:435 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:443 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:231 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-18 11:02:322 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-18 11:02:707 INFO  RegisterPage:225 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-18 11:02:724 INFO  RegisterPage:226 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:740 INFO  RegisterPage:227 - current page heading :: Register Account
+2024-02-18 11:02:63 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:88 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:97 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:302 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-18 11:02:429 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:354 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:377 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:384 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:161 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:207 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:834 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:846 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:852 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:945 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:89 INFO  RegisterPage:312 - inputted >> David
+2024-02-18 11:02:252 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:563 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:563 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-18 11:02:685 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:822 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:710 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:720 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-18 11:02:728 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-18 11:02:807 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:742 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:760 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:771 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:471 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:503 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:430 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:443 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:453 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:524 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 11:02:661 INFO  RegisterPage:312 - inputted >> Arun
+2024-02-18 11:02:807 INFO  RegisterPage:318 - inputted >> Howard
+2024-02-18 11:02:979 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 11:02:104 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:105 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 11:02:227 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:355 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:888 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:909 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:921 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 11:02:254 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:270 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:281 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:20 INFO  DataBaseHelper:45 - scroll till web element :: 
+2024-02-18 11:02:111 INFO  DataBaseHelper:53 - element is clicked: 
+2024-02-18 11:02:504 INFO  RegisterPage:225 - Successfully clicked on Continue Button navigating :: class pages.RegisterPage
+2024-02-18 11:02:520 INFO  RegisterPage:226 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:535 INFO  RegisterPage:227 - current page heading :: Register Account
+2024-02-18 11:02:228 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:249 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:259 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:542 INFO  RegisterPage:543 - Successfully clicked on Continue Button
+2024-02-18 11:02:658 INFO  VerificationHelper:46 - Element is enabled :: Continue
+2024-02-18 11:02:79 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:97 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:106 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:25 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-18 11:02:30 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:957 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:980 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:989 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:820 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-18 11:02:823 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 11:02:967 INFO  RegisterPage:312 - inputted >> Firstname
+2024-02-18 11:02:111 INFO  RegisterPage:318 - inputted >> Lastname
+2024-02-18 11:02:428 INFO  RegisterPage:324 - inputted >> 07405000000
+2024-02-18 11:02:428 INFO  RegisterPage:333 - Finalised entering personal details....
+2024-02-18 11:02:549 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:676 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:825 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:663 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:676 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-18 11:02:683 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-18 11:02:727 INFO  BasePage:446 - clicked :: Continue
+2024-02-18 11:02:92 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-18 11:02:108 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-18 11:02:115 INFO  BasePage:450 - current page heading :: My Account
+2024-02-18 11:02:516 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-18 11:02:533 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-18 11:02:542 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-18 11:02:565 INFO  BasePage:426 - clicked :: 
+2024-02-18 11:02:262 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-18 11:02:276 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-18 11:02:282 INFO  BasePage:430 - current page title:: My Account
+2024-02-18 11:02:90 INFO  BasePage:368 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-18 11:02:104 INFO  BasePage:369 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-18 11:02:112 INFO  BasePage:370 - current page title:: Account Logout
+2024-02-18 11:02:151 INFO  BasePage:375 - clicked :: Continue
+2024-02-18 11:02:549 INFO  BasePage:377 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-18 11:02:568 INFO  BasePage:378 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-18 11:02:582 INFO  BasePage:379 - current page title:: Your Store
+2024-02-18 11:02:358 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:381 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:388 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:153 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 11:02:201 INFO  BasePage:203 - Click :: Continue
+2024-02-18 11:02:987 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 11:02:00 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:07 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 11:02:101 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 11:02:245 INFO  RegisterPage:312 - inputted >> Arun
+2024-02-18 11:02:407 INFO  RegisterPage:318 - inputted >> Motoori
+2024-02-18 11:02:567 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 11:02:711 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 11:02:712 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 11:02:836 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 11:02:956 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 11:02:486 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 11:02:507 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 11:02:519 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 11:02:386 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 11:02:412 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 11:02:419 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 11:02:344 INFO  BasePage:407 - Successfully clicked on My Account dropdown item
+2024-02-18 11:02:344 INFO  RegisterPage:328 - Entering personal details....
+2024-02-18 12:02:916 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 12:02:929 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 12:02:946 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 12:02:662 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 12:02:706 INFO  BasePage:203 - Click :: Continue
+2024-02-18 12:02:534 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 12:02:546 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:552 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 12:02:570 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 12:02:551 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 12:02:642 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 12:02:655 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 12:02:519 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 12:02:551 INFO  BasePage:203 - Click :: Continue
+2024-02-18 12:02:326 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 12:02:336 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:351 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 12:02:450 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 12:02:612 INFO  RegisterPage:312 - inputted >> Arun
+2024-02-18 12:02:738 INFO  RegisterPage:318 - inputted >> Motoori
+2024-02-18 12:02:919 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 12:02:45 INFO  RegisterPage:324 - inputted >> 07405800000
+2024-02-18 12:02:45 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 12:02:162 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 12:02:294 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 12:02:876 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 12:02:894 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:905 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 12:02:403 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 12:02:435 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 12:02:444 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 12:02:177 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 12:02:218 INFO  BasePage:203 - Click :: Continue
+2024-02-18 12:02:970 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 12:02:986 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:999 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 12:02:86 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 12:02:220 INFO  RegisterPage:312 - inputted >> Firstname
+2024-02-18 12:02:356 INFO  RegisterPage:318 - inputted >> Lastname
+2024-02-18 12:02:522 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 12:02:649 INFO  RegisterPage:324 - inputted >> 07405000000
+2024-02-18 12:02:649 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 12:02:780 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 12:02:930 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 12:02:507 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 12:02:515 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:528 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 12:02:285 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 12:02:348 INFO  BasePage:203 - Click :: Continue
+2024-02-18 12:02:119 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 12:02:135 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:144 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 12:02:263 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 12:02:481 INFO  RegisterPage:312 - inputted >> Firstname
+2024-02-18 12:02:664 INFO  RegisterPage:318 - inputted >> Lastname
+2024-02-18 12:02:901 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 12:02:91 INFO  RegisterPage:324 - inputted >> 07405000000
+2024-02-18 12:02:92 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 12:02:282 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 12:02:462 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 12:02:146 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 12:02:183 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:191 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 12:02:507 INFO  BasePage:461 - Successfully clicked on from top menu list links
+2024-02-18 12:02:567 INFO  BasePage:203 - Click :: Continue
+2024-02-18 12:02:334 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-18 12:02:352 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:367 INFO  BasePage:207 - current page url :: Register Account
+2024-02-18 12:02:499 INFO  RegisterPage:337 - Entering personal details....
+2024-02-18 12:02:714 INFO  RegisterPage:312 - inputted >> Firstname
+2024-02-18 12:02:918 INFO  RegisterPage:318 - inputted >> Lastname
+2024-02-18 12:02:156 INFO  RegisterPage:351 - entered existing email :: admin001@admin.com
+2024-02-18 12:02:335 INFO  RegisterPage:324 - inputted >> 07405000000
+2024-02-18 12:02:335 INFO  RegisterPage:342 - Finalised entering personal details....
+2024-02-18 12:02:517 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-18 12:02:689 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-18 12:02:324 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-18 12:02:334 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-18 12:02:349 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-18 13:02:892 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:921 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:932 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:782 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:625 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:629 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:07 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:32 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:47 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:334 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:356 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:374 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:444 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:470 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:484 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:742 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:818 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:828 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:813 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:828 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:844 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:101 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:829 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:837 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:107 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:165 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:190 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:800 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:828 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:831 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:872 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:873 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:904 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:816 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:832 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:849 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:362 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:380 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:398 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 13:02:501 INFO  IndexPage:98 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 13:02:521 INFO  IndexPage:99 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 13:02:526 INFO  IndexPage:100 - current page url :: Your Store
+2024-02-18 15:02:717 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:727 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:747 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:715 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:713 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:729 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:715 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:741 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:741 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:841 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:855 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:875 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:239 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:261 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:267 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:151 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:176 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:195 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:241 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:257 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:276 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:93 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:113 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:129 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:504 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:525 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:540 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:821 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:832 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:854 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:774 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:803 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:811 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:213 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:232 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:251 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:279 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:298 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:305 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:860 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:883 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:898 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:366 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:379 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:379 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:715 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:733 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:743 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:989 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:01 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:22 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:522 INFO  BasePage:507 - Successfully clicked on My Account and Logout Linkclass pages.IndexPage
+2024-02-18 15:02:537 INFO  BasePage:508 - current page :: https://tutorialsninja.com/demo/index.php?route=account/login
+2024-02-18 15:02:636 INFO  LoginPage:136 - Successfully clicked on Login button navigating >> class pages.LoginPage
+2024-02-18 15:02:650 INFO  LoginPage:137 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-18 15:02:653 INFO  LoginPage:138 - current page title:: My Account
+2024-02-18 15:02:924 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-18 15:02:933 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-18 15:02:933 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-18 15:02:965 INFO  BasePage:426 - clicked :: 
+2024-02-18 15:02:670 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-18 15:02:682 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-18 15:02:682 INFO  BasePage:430 - current page title:: My Account
+2024-02-18 15:02:713 INFO  BasePage:384 - clicked :: Logout
+2024-02-18 15:02:389 INFO  BasePage:386 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-18 15:02:408 INFO  BasePage:387 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-18 15:02:415 INFO  BasePage:388 - current page title:: Account Logout
+2024-02-18 15:02:443 INFO  BasePage:435 - clicked :: Continue
+2024-02-18 15:02:922 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-18 15:02:938 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-18 15:02:946 INFO  BasePage:440 - current page title:: Your Store
+2024-02-18 15:02:948 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-18 15:02:574 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:596 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:610 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:96 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:125 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:125 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-18 15:02:441 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-18 15:02:457 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-18 15:02:474 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 01:02:963 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 01:02:985 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 01:02:985 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 01:02:150 INFO  RegisterPage:312 - inputted >> FirstName
+2024-02-19 01:02:294 INFO  RegisterPage:318 - inputted >> LastName
+2024-02-19 01:02:595 INFO  RegisterPage:324 - inputted >> 074000000000
+2024-02-19 01:02:781 INFO  RegisterPage:362 - inputted password >> password@123
+2024-02-19 01:02:926 INFO  RegisterPage:369 - inputted confirm password>> password@123
+2024-02-19 01:02:389 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 01:02:401 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 01:02:405 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 01:02:581 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 01:02:959 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 01:02:985 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 01:02:991 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 01:02:391 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-19 01:02:407 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 01:02:416 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-19 01:02:515 INFO  BasePage:426 - clicked :: 
+2024-02-19 01:02:40 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 01:02:115 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 01:02:135 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 01:02:241 INFO  BasePage:384 - clicked :: Logout
+2024-02-19 01:02:807 INFO  BasePage:386 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-19 01:02:823 INFO  BasePage:387 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-19 01:02:832 INFO  BasePage:388 - current page title:: Account Logout
+2024-02-19 01:02:912 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 01:02:334 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 01:02:334 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 01:02:367 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 01:02:368 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 01:02:512 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 01:02:523 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 01:02:533 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 01:02:28 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 01:02:43 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 01:02:46 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 01:02:398 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 01:02:407 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 01:02:421 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 01:02:908 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 01:02:921 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 01:02:925 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:514 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:534 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:551 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:684 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:705 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:721 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:155 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:164 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:179 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:547 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:563 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:576 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:999 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:12 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:24 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:202 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:216 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:238 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:475 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:491 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:502 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:567 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:885 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:895 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:916 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:457 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:470 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:474 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:268 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:290 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:300 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:509 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:535 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:548 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:344 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:375 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:398 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:985 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:10 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:17 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:625 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:652 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:658 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:140 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:168 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:177 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:137 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:189 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 02:02:204 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 02:02:838 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 02:02:866 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 02:02:875 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 02:02:470 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 02:02:490 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 02:02:498 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 02:02:677 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 02:02:57 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 02:02:70 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 02:02:80 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 02:02:472 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-19 02:02:521 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 02:02:533 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-19 02:02:693 INFO  BasePage:426 - clicked :: 
+2024-02-19 02:02:527 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 02:02:538 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 02:02:549 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 02:02:681 INFO  BasePage:384 - clicked :: Logout
+2024-02-19 02:02:251 INFO  BasePage:386 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-19 02:02:267 INFO  BasePage:387 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-19 02:02:278 INFO  BasePage:388 - current page title:: Account Logout
+2024-02-19 02:02:361 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 02:02:794 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 02:02:812 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 02:02:818 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 02:02:818 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 03:02:984 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 03:02:04 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 03:02:15 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 03:02:164 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 03:02:175 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 03:02:184 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 03:02:185 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 03:02:215 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 03:02:222 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 03:02:388 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 03:02:397 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 03:02:410 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 03:02:557 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 03:02:869 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 03:02:894 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 03:02:902 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 03:02:289 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-19 03:02:311 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 03:02:326 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-19 03:02:425 INFO  BasePage:426 - clicked :: 
+2024-02-19 03:02:957 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 03:02:15 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 03:02:27 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 03:02:127 INFO  BasePage:384 - clicked :: Logout
+2024-02-19 03:02:643 INFO  BasePage:386 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-19 03:02:666 INFO  BasePage:387 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-19 03:02:675 INFO  BasePage:388 - current page title:: Account Logout
+2024-02-19 03:02:757 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 03:02:210 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 03:02:226 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 03:02:226 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 03:02:226 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 04:02:798 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 04:02:845 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 04:02:856 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 04:02:572 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 04:02:584 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 04:02:595 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 04:02:773 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 04:02:160 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 04:02:184 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 04:02:196 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 04:02:632 INFO  BasePage:360 - Successfully clicked on Edit Account link navigating >> class pages.AccountPage
+2024-02-19 04:02:648 INFO  BasePage:361 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 04:02:661 INFO  BasePage:362 - current page title:: My Account Information
+2024-02-19 04:02:827 INFO  BasePage:426 - clicked :: 
+2024-02-19 04:02:453 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 04:02:462 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 04:02:476 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 04:02:605 INFO  BasePage:384 - clicked :: Logout
+2024-02-19 04:02:387 INFO  BasePage:386 - Successfully clicked on Logout link navigating >> class pages.AccountPage
+2024-02-19 04:02:403 INFO  BasePage:387 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/logout
+2024-02-19 04:02:412 INFO  BasePage:388 - current page title:: Account Logout
+2024-02-19 04:02:518 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 04:02:945 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 04:02:967 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 04:02:975 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 04:02:975 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 04:02:73 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 04:02:83 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 04:02:149 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 04:02:897 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 04:02:914 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 04:02:933 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 04:02:937 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 04:02:953 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 04:02:968 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 04:02:996 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 04:02:28 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 04:02:44 INFO  BasePage:420 - current page heading :: Register Account
+2024-02-19 05:02:366 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 05:02:383 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 05:02:404 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 05:02:278 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 05:02:307 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 05:02:317 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 08:02:681 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 08:02:703 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 08:02:727 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 08:02:938 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 08:02:971 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 08:02:993 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 08:02:126 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:15 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:29 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 09:02:141 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:149 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:190 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 09:02:238 INFO  BasePage:507 - Successfully clicked on My Account and Logout Linkclass pages.IndexPage
+2024-02-19 09:02:269 INFO  BasePage:508 - current page :: https://tutorialsninja.com/demo/index.php?route=account/login
+2024-02-19 09:02:354 INFO  BasePage:203 - Click :: Continue
+2024-02-19 09:02:299 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-19 09:02:307 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 09:02:324 INFO  BasePage:207 - current page url :: Register Account
+2024-02-19 09:02:593 INFO  RegisterPage:312 - inputted >> Nicol
+2024-02-19 09:02:783 INFO  RegisterPage:318 - inputted >> Stoltenberg
+2024-02-19 09:02:275 INFO  RegisterPage:324 - inputted >> 07828 391651
+2024-02-19 09:02:439 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-19 09:02:605 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-19 09:02:584 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 09:02:593 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 09:02:619 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 09:02:722 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 09:02:102 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 09:02:127 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 09:02:135 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 09:02:179 INFO  BasePage:238 - clicked :: Edit your account information
+2024-02-19 09:02:575 INFO  BasePage:240 - Successfully clicked on Edit Your Account Information link
+2024-02-19 09:02:599 INFO  BasePage:241 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 09:02:617 INFO  BasePage:242 - current page title:: My Account Information
+2024-02-19 09:02:689 INFO  BasePage:426 - clicked :: 
+2024-02-19 09:02:206 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 09:02:270 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 09:02:296 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 09:02:346 INFO  DataBaseHelper:31 - scroll to WebElement :: Logout
+2024-02-19 09:02:11 INFO  BasePage:139 - Successfully clicked on Logout link
+2024-02-19 09:02:70 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 09:02:555 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 09:02:571 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 09:02:577 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 09:02:583 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 09:02:658 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:700 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:713 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 09:02:580 INFO  BasePage:507 - Successfully clicked on My Account and Logout Linkclass pages.IndexPage
+2024-02-19 09:02:590 INFO  BasePage:508 - current page :: https://tutorialsninja.com/demo/index.php?route=account/login
+2024-02-19 09:02:656 INFO  BasePage:203 - Click :: Continue
+2024-02-19 09:02:604 INFO  BasePage:205 - Successfully clicked on Continue button
+2024-02-19 09:02:625 INFO  BasePage:206 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/register
+2024-02-19 09:02:625 INFO  BasePage:207 - current page url :: Register Account
+2024-02-19 09:02:774 INFO  RegisterPage:312 - inputted >> Coy
+2024-02-19 09:02:926 INFO  RegisterPage:318 - inputted >> Hoeger
+2024-02-19 09:02:299 INFO  RegisterPage:324 - inputted >> 07861 971611
+2024-02-19 09:02:416 INFO  RegisterPage:362 - inputted password >> Password
+2024-02-19 09:02:543 INFO  RegisterPage:369 - inputted confirm password>> Password
+2024-02-19 09:02:346 INFO  BasePage:418 - Successfully clicked on Continue Button navigating >> class pages.RegisterPage
+2024-02-19 09:02:364 INFO  BasePage:419 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/success
+2024-02-19 09:02:378 INFO  BasePage:420 - current page heading :: Your Account Has Been Created!
+2024-02-19 09:02:453 INFO  BasePage:446 - clicked :: Continue
+2024-02-19 09:02:826 INFO  BasePage:448 - Successfully clicked on Continue Button navigating >> class pages.SuccessPage
+2024-02-19 09:02:840 INFO  BasePage:449 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 09:02:845 INFO  BasePage:450 - current page heading :: My Account
+2024-02-19 09:02:874 INFO  BasePage:238 - clicked :: Edit your account information
+2024-02-19 09:02:259 INFO  BasePage:240 - Successfully clicked on Edit Your Account Information link
+2024-02-19 09:02:274 INFO  BasePage:241 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/edit
+2024-02-19 09:02:282 INFO  BasePage:242 - current page title:: My Account Information
+2024-02-19 09:02:332 INFO  BasePage:426 - clicked :: 
+2024-02-19 09:02:33 INFO  BasePage:428 - Successfully clicked on Continue button navigating >> class pages.EditPage
+2024-02-19 09:02:52 INFO  BasePage:429 - current page url :: https://tutorialsninja.com/demo/index.php?route=account/account
+2024-02-19 09:02:58 INFO  BasePage:430 - current page title:: My Account
+2024-02-19 09:02:84 INFO  DataBaseHelper:31 - scroll to WebElement :: Logout
+2024-02-19 09:02:788 INFO  BasePage:139 - Successfully clicked on Logout link
+2024-02-19 09:02:817 INFO  BasePage:435 - clicked :: Continue
+2024-02-19 09:02:263 INFO  BasePage:438 - Successfully clicked on Continue button navigating >> class pages.LogoutPage
+2024-02-19 09:02:279 INFO  BasePage:439 - current page url :: https://tutorialsninja.com/demo/index.php?route=common/home
+2024-02-19 09:02:292 INFO  BasePage:440 - current page title:: Your Store
+2024-02-19 09:02:293 INFO  BasePage:441 - ******************Test Ended******************
+2024-02-19 09:02:132 INFO  IndexPage:108 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:149 INFO  IndexPage:109 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:165 INFO  IndexPage:110 - current page url :: Your Store
+2024-02-19 09:02:870 INFO  IndexPage:111 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:882 INFO  IndexPage:112 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:906 INFO  IndexPage:113 - current page url :: Your Store
+2024-02-19 09:02:910 INFO  IndexPage:111 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:940 INFO  IndexPage:112 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:948 INFO  IndexPage:113 - current page url :: Your Store
+2024-02-19 09:02:988 INFO  IndexPage:111 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:07 INFO  IndexPage:112 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:23 INFO  IndexPage:113 - current page url :: Your Store
+2024-02-19 09:02:237 INFO  IndexPage:116 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:255 INFO  IndexPage:117 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:273 INFO  IndexPage:118 - current page url :: Your Store
+2024-02-19 09:02:873 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:897 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:900 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:738 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:758 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:770 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:137 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:145 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:159 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:536 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:562 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:569 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:408 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:428 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:434 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:914 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:931 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:948 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:323 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 09:02:278 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:361 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:382 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:744 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 09:02:582 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:599 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:617 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:949 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 09:02:599 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:612 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:631 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:935 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 09:02:681 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:713 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:719 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:68 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 09:02:768 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 09:02:797 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 09:02:803 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 09:02:162 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 10:02:578 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:610 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:618 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:929 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 10:02:461 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:481 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:487 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:827 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 10:02:778 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:809 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:816 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:200 INFO  BaseTest:111 - navigating to ...https://tutorialsninja.com/demo/
+2024-02-19 10:02:18 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:42 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:50 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:121 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:150 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:150 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:383 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:402 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:415 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:40 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:55 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:72 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:411 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:794 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:807 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:806 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:819 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:840 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:184 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:198 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:208 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:431 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:454 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:463 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:572 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:591 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:609 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:216 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:779 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:787 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 10:02:578 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 10:02:600 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 10:02:609 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 11:02:411 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:434 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:438 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 11:02:471 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:501 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:508 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 11:02:411 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:440 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:446 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 11:02:798 INFO  IndexPage:118 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:819 INFO  IndexPage:119 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:835 INFO  IndexPage:120 - current page url :: Your Store
+2024-02-19 11:02:407 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:418 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:439 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 11:02:42 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 11:02:63 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 11:02:63 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:534 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:561 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:568 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:559 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:328 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:341 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:425 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:453 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:461 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:943 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:964 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:971 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:121 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:138 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:158 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:336 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:366 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:374 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:642 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:668 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:668 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:97 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:127 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:135 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:977 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:997 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:04 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:134 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:151 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:166 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:202 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:226 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:226 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:477 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:500 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:500 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:373 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:394 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:394 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:03 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:38 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:71 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 12:02:487 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 12:02:496 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 12:02:512 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:928 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:967 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:989 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:117 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:141 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:162 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:632 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:646 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:667 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:423 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:443 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:466 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:36 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:49 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:60 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:95 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:112 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:129 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:420 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:436 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:453 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:612 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:642 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:659 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:442 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:479 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:489 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:378 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:404 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:415 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:814 INFO  BasePage:552 - Successfully clicked on search button
+2024-02-19 13:02:311 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:336 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:353 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:258 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:280 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:286 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:78 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:94 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:94 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:506 INFO  BasePage:552 - Successfully clicked on search button
+2024-02-19 13:02:677 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:686 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:707 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:665 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:686 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:702 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:439 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:461 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:476 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:880 INFO  BasePage:552 - Successfully clicked on search button
+2024-02-19 13:02:803 INFO  IndexPage:122 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 13:02:822 INFO  IndexPage:123 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 13:02:867 INFO  IndexPage:124 - current page url :: Your Store
+2024-02-19 13:02:872 INFO  AccountPage:21 -  Starting TC_004_SearchProductTest 
+2024-02-19 14:02:113 INFO  IndexPage:126 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 14:02:129 INFO  IndexPage:127 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 14:02:146 INFO  IndexPage:128 - current page url :: Your Store
+2024-02-19 14:02:149 INFO  AccountPage:21 -  Starting TC_004_SearchProductTest 
+2024-02-19 14:02:905 INFO  AccountPage:39 -  Finished TC_004_SearchProductTest 
+2024-02-19 16:02:132 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:160 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:169 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:171 INFO  AccountPage:21 -  Starting TC_004_SearchProductTest 
+2024-02-19 16:02:280 INFO  IndexPage:109 - input product name :: mac
+2024-02-19 16:02:842 INFO  IndexPage:112 - ******navigating to :: class pages.IndexPage*******
+2024-02-19 16:02:867 INFO  IndexPage:113 - current page url :: https://tutorialsninja.com/demo/index.php?route=product/search&search=mac
+2024-02-19 16:02:870 INFO  IndexPage:114 - current page url :: Search - mac
+2024-02-19 16:02:986 INFO  AccountPage:37 -  Finished TC_004_SearchProductTest 
+2024-02-19 16:02:347 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:374 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:382 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:454 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:486 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:494 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:237 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:258 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:266 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:635 INFO  BasePage:552 - Successfully clicked on search button
+2024-02-19 16:02:340 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:361 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:377 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:378 INFO  AccountPage:21 -  Starting TC_004_SearchProductTest 
+2024-02-19 16:02:503 INFO  IndexPage:109 - input product name :: mac
+2024-02-19 16:02:44 INFO  IndexPage:112 - ******navigating to :: class pages.IndexPage*******
+2024-02-19 16:02:68 INFO  IndexPage:113 - current page url :: https://tutorialsninja.com/demo/index.php?route=product/search&search=mac
+2024-02-19 16:02:77 INFO  IndexPage:114 - current page url :: Search - mac
+2024-02-19 16:02:155 INFO  AccountPage:37 -  Finished TC_004_SearchProductTest 
+2024-02-19 16:02:770 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:793 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:807 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:346 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:976 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:31 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:740 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:770 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:779 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:242 INFO  BasePage:552 - Successfully clicked on search button
+2024-02-19 16:02:747 INFO  IndexPage:130 - ******************Test Started from class pages.IndexPage*************
+2024-02-19 16:02:773 INFO  IndexPage:131 - current page url :: https://tutorialsninja.com/demo/
+2024-02-19 16:02:799 INFO  IndexPage:132 - current page url :: Your Store
+2024-02-19 16:02:803 INFO  AccountPage:23 -  Starting TC_004_SearchProductTest 
+2024-02-19 16:02:979 INFO  IndexPage:109 - input product name :: mac
+2024-02-19 16:02:723 INFO  IndexPage:112 - ******navigating to :: class pages.IndexPage*******
+2024-02-19 16:02:756 INFO  IndexPage:113 - current page url :: https://tutorialsninja.com/demo/index.php?route=product/search&search=mac
+2024-02-19 16:02:774 INFO  IndexPage:114 - current page url :: Search - mac
+2024-02-19 16:02:917 INFO  AccountPage:39 -  Finished TC_004_SearchProductTest 

@@ -1,0 +1,24 @@
+[
+  {
+    "myAccountLink": "My Account",
+    "loginLink": "Login",
+    "emailAddress": "admin001@admin.com",
+    "password": "WrongPassword",
+    "loginErrorMsg": "Warning: No match for E-Mail Address and/or Password."
+  },
+  {
+    "myAccountLink": "My Account",
+    "LoginLink": "Login",
+    "emailAddress": "wrongEmail001@admin.com",
+    "password": "Password",
+    "loginErrorMsg": "Warning: No match for E-Mail Address and/or Password."
+  },
+  {
+    "myAccountLink": "My Account",
+    "LoginLink": "Login",
+    "emailAddress": "wrongEmail001@admin.com",
+    "password": "WrongPassword",
+    "loginErrorMsg": "Warning: No match for E-Mail Address and/or Password."
+  }
+]
+

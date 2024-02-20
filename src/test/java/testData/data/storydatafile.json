@@ -1,0 +1,76 @@
+{
+  "testdata": {
+    "employeeauthrequest": {
+      "password": "Password1234",
+      "username": "email@email.com"
+    },
+    "employerUserAuthentication": {
+      "password": "Password1234",
+      "username": "admin@admin.com"
+    },
+    "employerRegistrationTestData": {
+      "organisationType": "CHARITY",
+      "employerCode": "Z0001",
+      "charityNumber": "AAAA111111",
+      "accountCode": "111111",
+      "contactPerson": {
+        "firstName": "Michael",
+        "lastName": "Conway",
+        "emailAddress": "michael.conway1@email.com",
+        "telephoneNumber": "01914885555"
+      },
+      "addressDetails": {
+        "addressLine1": "10, Chillingham Road",
+        "organisationName": "Tyne Health",
+        "addressLine2": "Heaton",
+        "town": "Newcastle Upon Tyne",
+        "county": "Tyne and Wear",
+        "postcode": "NE7 7AD"
+      },
+      "privacyNoticeURL": "https://automationteststore.com/",
+      "organisationURL": "https://automationteststore.com/"
+    },
+    "userRegistrationTestData": {
+      "username": "admin@admin.com",
+      "password": "Password123",
+      "firstName": "Admin",
+      "surname": "SurName",
+      "roles": [
+        "ROLE_GP"
+      ],
+      "organisationRole": "Practice Manager",
+      "employerDetailsRequest": {
+        "addressDetailRequest": {
+          "line1": "10, Chillingham Road",
+          "line2": "Heaton",
+          "town": "Newcastle Upon Tyne",
+          "county": "Tyne and Wear",
+          "postcode": "NE7 7AD"
+        },
+        "name": "Whickham Cottage Practice"
+      },
+      "employerCode": "N002"
+    },
+    "NhsBsaAdminUserRegistrationTestData": {
+      "username": "admin@admin.com",
+      "password": "Password123",
+      "firstName": "Admin",
+      "surname": "SurName",
+      "roles": [
+        "ROLE_MASTER_ADMIN"
+      ],
+      "organisationRole": "Practice Manager",
+      "employerDetailsRequest": {
+        "addressDetailRequest": {
+          "line1": "10, Chillingham Road",
+          "line2": "Heaton",
+          "town": "Newcastle Upon Tyne",
+          "county": "Tyne and Wear",
+          "postcode": "NE7 7AD"
+        },
+        "name": "Whickham Cottage Practice"
+      },
+      "employerCode": "N002"
+    }
+  }
+}
